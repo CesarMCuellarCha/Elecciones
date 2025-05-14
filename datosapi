@@ -1,6 +1,10 @@
-url json = "https://raw.githubusercontent.com/cesarmcuellar/Elecciones/refs/heads/main/candidatos.json"
+url json = "https://raw.githubusercontent.com/CesarMCuellarCha/Elecciones/refs/heads/main/candidatos.json"
 
-fotos: https://raw.githubusercontent.com/cesarmcuellar/Elecciones/refs/heads/main/candidato1.jpg
+fotos: 
+https://raw.githubusercontent.com/CesarMCuellarCha/Elecciones/refs/heads/main/candidato1.jpg
+https://raw.githubusercontent.com/CesarMCuellarCha/Elecciones/refs/heads/main/candidato2.jpg
+https://raw.githubusercontent.com/CesarMCuellarCha/Elecciones/refs/heads/main/candidato3.jpg
+https://raw.githubusercontent.com/CesarMCuellarCha/Elecciones/refs/heads/main/votoBlanco.png
 
-administradro json: https://raw.githubusercontent.com/cesarmcuellar/Elecciones/refs/heads/main/administrador.json
+administrador json: https://raw.githubusercontent.com/CesarMCuellarCha/Elecciones/refs/heads/main/administrador.json
 

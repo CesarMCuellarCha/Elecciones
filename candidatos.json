@@ -11,21 +11,21 @@
       "apellido": "Gómez",
       "ficha": 287860,
       "curso": "Tecnólogo en Multimedia",
-      "foto":null
+      "foto":"candidato2.jpg"
     },
     {
       "nombre": "Carlos",
       "apellido": "Martínez",
       "ficha": 287861,
       "curso": "Tecnólogo en Refrigeración",
-      "foto":null
+      "foto":"candidato3.jpg"
     },
     {
         "nombre": "Blanco",
         "apellido": "Blanco",
         "ficha": null,
         "curso": null,
-        "foto":null
+        "foto":"votoBlanco.png"
     }
   ]
   
