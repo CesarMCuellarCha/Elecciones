@@ -1,0 +1,6 @@
+url json = "https://raw.githubusercontent.com/cesarmcuellar/Elecciones/refs/heads/main/candidatos.json"
+
+fotos: https://raw.githubusercontent.com/cesarmcuellar/Elecciones/refs/heads/main/candidato1.jpg
+
+administradro json: https://raw.githubusercontent.com/cesarmcuellar/Elecciones/refs/heads/main/administrador.json
+
